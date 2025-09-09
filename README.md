@@ -1,13 +1,7 @@
 # Gesture-Presentation-Controller
 
-# Gesture-Controlled Presentation Controller
-
 Control your PowerPoint or Google Slides **with just your hands** — no remote needed!  
 Built with **Python, OpenCV, and MediaPipe**.
-
----
-
-## Demo
 
 ---
 

@@ -4,6 +4,11 @@ Control your PowerPoint or Google Slides **with just your hands** — no remote 
 Built with **Python, OpenCV, and MediaPipe**.
 
 ---
+## Demo
+
+https://www.linkedin.com/posts/mishil-trivedi_python-computervision-mediapipe-activity-7371531659533496320-LEuZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBRJgUBIGGOSdOOMkWeY98G5GIMl1flq14
+
+---
 
 ## Features
 - 👉 **Pointing Up** → Next Slide
